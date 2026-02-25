@@ -1,0 +1,24 @@
+
+> applyai-client@1.0.0 dev
+> vite --port 5180 --strictPort
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m657[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5180[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m7:11:29 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m7:12:07 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/index.css[22m
+[2m7:12:28 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Chat.jsx, /src/index.css[22m
+[2m7:13:06 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Dashboard.jsx, /src/index.css[22m
+[2m7:13:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/JobCard.jsx, /src/index.css[22m
+[2m7:13:26 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResumePreview.jsx, /src/index.css[22m
+[2m7:14:08 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/index.css[22m
+[2m7:19:05 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m7:19:22 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/index.css[22m
+[2m7:19:32 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Chat.jsx, /src/index.css[22m
+[2m7:19:40 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/JobCard.jsx, /src/index.css[22m
+[2m7:23:47 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/index.css[22m
+[2m7:24:30 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Chat.jsx, /src/index.css[22m
+[2m7:25:50 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m7:25:59 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m

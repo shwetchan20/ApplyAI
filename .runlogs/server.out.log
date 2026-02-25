@@ -1,0 +1,9 @@
+
+> applyai-server@1.0.0 dev
+> node --watch index.js
+
+ApplyAI server running on http://localhost:5001
+Restarting 'index.js'
+ApplyAI server running on http://localhost:5001
+Restarting 'index.js'
+ApplyAI server running on http://localhost:5001
