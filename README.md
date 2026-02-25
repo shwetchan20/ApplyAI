@@ -27,6 +27,18 @@ AI-powered job application assistant that gathers your profile by chat, fetches 
 5. Run frontend in another terminal:
    - `npm run dev:client`
 
+## Vercel Deploy
+- Project is configured for full-stack Vercel deployment using:
+  - `vercel.json`
+  - `api/index.mjs` (serverless API handler)
+- Required Vercel environment variables:
+  - `GROQ_API_KEY`
+  - `ADZUNA_APP_ID`
+  - `ADZUNA_APP_KEY`
+  - `ADZUNA_COUNTRY` (optional, default `us`)
+  - `CLIENT_ORIGIN` (set to your Vercel domain URL)
+- Frontend uses `/api` automatically in production when `VITE_API_BASE_URL` is not set.
+
 ## API Endpoints
 - `POST /api/chat` -> chat onboarding + optional profile JSON
 - `POST /api/jobs` -> Adzuna jobs + fit scoring
